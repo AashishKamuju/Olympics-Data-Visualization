@@ -23,6 +23,4 @@ This folder contains files related to the R project.
 - `athleteEvents1`: This folder is the dataset used in the project.
 - `Project_Final.R`: R script file containing code for data analysis and visualization using R.
 
-GITHUB LINKS:
-(https://github.com/Moksha1512/Olympics-Data-Visualization)
 
